@@ -45,13 +45,21 @@ The analysis focuses on employee workload, satisfaction, tenure, and performance
 ## 📂 Repository Structure
 
 ├── data/
+
 │ └── hr_dataset.csv # Employee survey and HR data
+
 ├── notebooks/
+
 │ ├── salifort_eda.ipynb # Data cleaning and exploratory analysis
+
 │ └── salifort_modeling.ipynb # Model training and evaluation
+
 ├── reports/
+
 │ └── executive_summary.pdf # Business-facing insights and recommendations
+
 ├── PACE_strategy_doc.md # Detailed project roadmap
+
 └── README.md
 
 
