@@ -1,0 +1,2 @@
+# Salifort-Motors-Employee-Retention---Advance-DA-Project
+A predictive analytics solution to reduce employee attrition at Salifort Motors using a 100K-employee HR dataset. Applied the PACE framework, performed EDA, and developed logistic regression to identify at-risk employees. Delivered executive insights with actionable recommendations on workload balance, burnout reduction, and retention strategy.
