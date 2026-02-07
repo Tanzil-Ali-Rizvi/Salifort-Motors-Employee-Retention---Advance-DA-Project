@@ -50,8 +50,8 @@ The analysis focuses on employee workload, satisfaction, tenure, and performance
 
 ├── notebooks/
 
-│ └── Salifort_Motors_Employee_Retention.ipynb (salifort_eda.ipynb [Data cleaning and exploratory analysis] + salifort_modeling.ipynb [Model training and evaluation] ) 
-
+│ └── Salifort_Motors_Employee_Retention.ipynb (salifort_eda.ipynb [Data cleaning and exploratory analysis] + salifort_modeling.ipynb
+                                                                                                              [Model training and evaluation] ) 
 ├── reports/
 
 │ └── executive_summary.pdf # Business-facing insights and recommendations
