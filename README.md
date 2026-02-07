@@ -62,6 +62,14 @@ The analysis focuses on employee workload, satisfaction, tenure, and performance
 
 └── README.md
 
+├── visuals/
+
+│ ├── Monthly_Hours_by_Project_Count.png
+
+│ ├── Top_Factors_Driving_Attrition.png
+
+│ └── feature_importance_plot.png
+
 
 ---
 
